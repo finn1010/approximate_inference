@@ -1,5 +1,5 @@
 ## Note:
-The codebase is not yet organised for systematic benchmarking. At this stage, I am prioritising the derivation and implementation of core approximate inference components. The current workflow uses logistic regression as a test case, however, it will be extended to higher-dimensional models (eg: Bayesian Neural networks and flow-based models) as well as other approximate inference methods. Once the foundations have been built out, I will restructure for formal benchmarking. 
+The codebase is not yet organised for systematic benchmarking. At this stage, I am prioritising the derivation and implementation of core approximate inference components. The current workflow uses logistic regression as a test case, however, it will be extended to higher-dimensional models (eg: Bayesian Neural networks and flow-based models) as well as other approximate inference methods. 
 
 ## Method:
 
