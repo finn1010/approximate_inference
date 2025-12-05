@@ -54,6 +54,7 @@ The codebase is not yet organised for systematic benchmarking. At this stage, I 
 
 **Covariance-Hessian subspace angles:**
 0.39 to 1.52 radians
+
 **Scale test ('i'th eigenvalue of Hessian * variance of q(w)):**
 Strong under-dispersion in leading curvature directions and over-dispersion in weaker ones
 
